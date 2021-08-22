@@ -11,4 +11,4 @@ This purpose of this project was to refactor a website's codebase to follow acce
 
 ## [Click here to go to the live deployment](https://jamestw13.github.io/horiseon-accessibility-update/)
 
-## Insert Screenshot
+![Screenshot](https://github.com/jamestw13/horiseon-accessibility-update/blob/main/screenshot.png)
